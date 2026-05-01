@@ -1,1 +1,1 @@
-# shared-study-notes
+# Study-notes
