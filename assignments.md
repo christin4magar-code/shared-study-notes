@@ -10,9 +10,6 @@
 | | Ch3 Review | Overdue | 200 |⏳ In Progress |
 | | Final Exam Review |May 13 | 200 | 🌱 Not Started |
 | **House Policy** | 3 Extra Credit Essays | May 1 | 90 | ✅ Done |
-| | Final Policy Paper | May 5| 50 | ⏳ In Progress |
-| | Final Presentation | May 5 | 50 | 🌱 Not Started |
-| | Project Illustration | May 5 | 100 | 🌱 Not Started |
 | **Comp Org** | Ch 12 Summary Report | May 1 | 30 | ✅ Done |
 
 ---
