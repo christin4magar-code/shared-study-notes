@@ -8,12 +8,6 @@
 | | Final Presentation | May 5 | 50 | 🌱 Not Started |
 | | Project Illustration | May 5 | 100 | 🌱 Not Started |
 
-### 🎓 Exam Schedule
-| Subject | Exam Name | Date | Status |
-| :--- | :--- | :--- | :--- |
-| **Math** | Chapter 3 (Make-up) | **TBD** | 🚨 Needs Reschedule |
-| | Final Exam | May 13 | 1:30-4:30|
-| **Info Systems** | Final Exam | May 13 | 10:30 |
 
 ### 🚨 Priority 
 1. **Math Chapter 3 Exam:** Need to email the professor to reschedule due to absence. **(Urgent)**
