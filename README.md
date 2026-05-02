@@ -16,8 +16,8 @@
 
 ### 🚀 **Quick Action Buttons**
 [![Assignments](https://img.shields.io/badge/-Assignments-pink?style=for-the-badge&logo=googlesheets&logoColor=white)](./assignments.md)
-[![IMPORTANT](https://img.shields.io/badge/-High--Stakes-orange?style=for-the-badge&logo=target&logoColor=white)](./exams.md)
-[![Basics](https://img.shields.io/badge/-Life--Hub-lightblue?style=for-the-badge&logo=apple&logoColor=white)](./admin.md)
+[![IMPORTANT](https://img.shields.io/badge/-Exams-lightgreen?style=for-the-badge&logo=target&logoColor=white)](./exams.md)
+[![Basics](https://img.shields.io/badge/-Daily-lightblue?style=for-the-badge&logo=apple&logoColor=white)](./admin.md)
 [![Study vault](https://img.shields.io/badge/-Study--Vault-purple?style=for-the-badge&logo=bookstack&logoColor=white)](./study_vault.md)
 
 ---
