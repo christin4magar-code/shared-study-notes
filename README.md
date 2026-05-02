@@ -44,13 +44,14 @@
 
 ### 💡 Reminders
 > [!TIP]
-> **Daily Focus:** Don't forget to email the Math professor about the Chapter 3 reschedule! 📧
+> **Daily Focus:** Don't forget to email Miss Husain about the Chapter 3 exam reschedule! 📧
 
 > [!IMPORTANT]
-> **House Policy Paper:** 200 points. Keep chipping away at the draft. 🖋️
+> **House Policy Paper:** 200 points due in less than a week. 🖋️
 
 > [!CAUTION]
-> **Office Task:** Collect stipend and paycheck before Friday at 4 PM. 💸
+> **Office Task:** Collect stipend from Business office before Friday at 4 PM. 💸
+> **Library:** Return the 3 books back to the library before May 13. 
 
 ---
 
