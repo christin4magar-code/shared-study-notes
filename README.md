@@ -1,4 +1,4 @@
-# Spring Semester Dashboard
+#           Spring Semester Dashboard
 * A space to keep track of my assignments and my projects.
 
 
@@ -9,15 +9,15 @@
 
   ### ☕ **Current Semester Progress**
   ![Progress Bar](https://geps.dev/progress/85)
-  *Almost at the finish line! Keep going!*
+  *Almost at the finish line! We got this!*
 </div>
 
 ---
 
 ### 🚀 **Quick Action Buttons**
 [![Assignments](https://img.shields.io/badge/-Assignments-pink?style=for-the-badge&logo=googlesheets&logoColor=white)](./assignments.md)
-[![High Stakes](https://img.shields.io/badge/-High--Stakes-orange?style=for-the-badge&logo=target&logoColor=white)](./high_stakes.md)
-[![Life Hub](https://img.shields.io/badge/-Life--Hub-lightblue?style=for-the-badge&logo=apple&logoColor=white)](./life_logistics.md)
+[![IMPORTANT](https://img.shields.io/badge/-High--Stakes-orange?style=for-the-badge&logo=target&logoColor=white)](./high_stakes.md)
+[![Basics](https://img.shields.io/badge/-Life--Hub-lightblue?style=for-the-badge&logo=apple&logoColor=white)](./life_logistics.md)
 [![Study Vault](https://img.shields.io/badge/-Study--Vault-purple?style=for-the-badge&logo=bookstack&logoColor=white)](./study_vault.md)
 
 ---
