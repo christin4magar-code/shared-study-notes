@@ -1,17 +1,23 @@
-# Simple Python To-Do List for IS Assignment
-tasks = []
+# Semester Grade & Points Calculator
+print("--- 🎓 Semester Points Calculator ---")
 
-def show_tasks():
-    print("\n--- CURRENT TASKS ---")
-    for i, task in enumerate(tasks):
-        print(f"{i + 1}. {task}")
+total_points = 0
+target_points = 1000 # Example target for an A
 
-print("Welcome to your Semester Task Manager!")
 while True:
-    new_task = input("\nEnter a task (or type 'quit' to exit): ")
-    if new_task.lower() == 'quit':
+    class_name = input("\nEnter Class Name (or 'exit' to finish): ")
+    if class_name.lower() == 'exit':
         break
-    tasks.append(new_task)
-    show_tasks()
+    
+    points = float(input(f"How many points have you earned in {class_name}?: "))
+    total_points += points
+    
+    print(f"Current Total: {total_points} points.")
+    
+    remaining = target_points - total_points
+    if remaining > 0:
+        print(f"You need {remaining} more points to hit your goal of {target_points}!")
+    else:
+        print("Congrats! You've hit your goal!")
 
-print("Great job staying organized!")
+print("\nStay focused and finish the semester strong!")
