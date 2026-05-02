@@ -7,7 +7,7 @@
 
   <!-- Progress Tracker -->
   ### ☕ **Current Semester Completion**
-  ![Progress Bar](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff69b4&successColor=00ff7f)
+  ![Progress Bar](https://geps.dev/progress/85?dangerColor=C7E9C0&warningColor=ff69b4&successColor=00ff7f)
   *“Almost at the finish line! We got this!”*
 
   <br />
@@ -15,8 +15,8 @@
   <!-- Buttons Section -->
   [![Assignments](https://img.shields.io/badge/📝%20ASSIGNMENTS-F690A6?style=for-the-badge&logoColor=white)](./assignments.md)
   [![Exams](https://img.shields.io/badge/🎯%20EXAMS-4c3228?style=for-the-badge&logoColor=black)](./exams.md)
-  [![Daily](https://img.shields.io/badge/☁️%20DAILY-FAE3E6?style=for-the-badge&logoColor=white)](./admin.md)
-  [![Study Vault](https://img.shields.io/badge/📚%20STUDY--VAULT-048c7f?style=for-the-badge&logoColor=white)](./study_vault.md)
+  [![Daily](https://img.shields.io/badge/☁️%20DAILY-048c7f?style=for-the-badge&logoColor=white)](./admin.md)
+  [![Study Vault](https://img.shields.io/badge/📚%20STUDY--VAULT-FAE3E6?style=for-the-badge&logoColor=white)](./study_vault.md)
 
 </div>
 
