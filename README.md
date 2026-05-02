@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Creative Colorful Header -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=150&section=header&text=Spring%20Semester%20Dashboard%20✨&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="[https://capsule-render.vercel.app/render](https://i.pinimg.com/736x/52/86/d0/5286d05691b11a934eedb296780f1fe5.jpg)?type=soft&color=gradient&height=150&section=header&text=Spring%20Semester%20Dashboard%20✨&fontSize=50&animation=fadeIn" width="100%" />
 
   <br />
 
