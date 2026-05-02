@@ -2,7 +2,7 @@
   
   <!-- Creative Colorful Header -->
 
-  <img src="https://i.pinimg.com/736x/ec/cb/73/eccb7327eaa2e92235002c3b19e0ef90.jpg)" width="100%" />
+  <img src="https://i.pinimg.com/736x/ec/cb/73/eccb7327eaa2e92235002c3b19e0ef90.jpg" width="100%" />
 
 
   <br />
