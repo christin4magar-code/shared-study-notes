@@ -51,6 +51,7 @@
 
 > [!CAUTION]
 > **Office Task:** Collect stipend from Business office before Friday at 4 PM. 💸
+>
 > **Library:** Return the 3 books back to the library before May 13. 
 
 ---
