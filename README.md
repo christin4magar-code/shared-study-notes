@@ -14,8 +14,8 @@
 
   <!-- Buttons Section -->
   [![Assignments](https://img.shields.io/badge/📝%20ASSIGNMENTS-FF69B4?style=for-the-badge&logoColor=white)](./assignments.md)
-  [![Exams](https://img.shields.io/badge/🎯%20EXAMS-7CFC00?style=for-the-badge&logoColor=black)](./high_stakes.md)
-  [![Daily](https://img.shields.io/badge/☁️%20DAILY-87CEEB?style=for-the-badge&logoColor=white)](./life_logistics.md)
+  [![Exams](https://img.shields.io/badge/🎯%20EXAMS-7CFC00?style=for-the-badge&logoColor=black)](./exams.md)
+  [![Daily](https://img.shields.io/badge/☁️%20DAILY-87CEEB?style=for-the-badge&logoColor=white)](./admin.md)
   [![Study Vault](https://img.shields.io/badge/📚%20STUDY--VAULT-9370DB?style=for-the-badge&logoColor=white)](./study_vault.md)
 
 </div>
@@ -24,7 +24,7 @@
 
 ### 🎧 Study Soundtrack
 <div align="center">
-  <a href="[https://open.spotify.com/playlist/0G17Dn0Y2puoCmysdsR7Bh?si=4-vKl_ENTMO58aiynalZlA&pi=Xgd-wo7vSd-On&nd=1&dlsi=9f48d9a9daf34e27] />
+  <a href="https://open.spotify.com/playlist/0G17Dn0Y2puoCmysdsR7Bh?si=4-vKl_ENTMO58aiynalZlA&pi=Xgd-wo7vSd-On&nd=1&dlsi=98afb811fbd44f1b">
     <img src="https://img.shields.io/badge/Spotify-Listening%20To%3A%20Study%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <br />
