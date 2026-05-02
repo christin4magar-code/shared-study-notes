@@ -1,23 +1,57 @@
-#           Spring Semester Dashboard
-* A space to keep track of my assignments and my projects.
-
-
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Semester%20Dashboard%20✨&fontSize=50&animation=fadeIn" width="100%" />
+  
+  <!-- Creative Colorful Header -->
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=150&section=header&text=Spring%20Semester%20Dashboard%20✨&fontSize=50&animation=fadeIn" width="100%" />
 
-  ### ☕ **Current Semester Progress**
-  ![Progress Bar](https://geps.dev/progress/85)
-  *Almost at the finish line! We got this!*
+  <br />
+
+  <!-- Progress Tracker -->
+  ### ☕ **Current Semester Completion**
+  ![Progress Bar](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff69b4&successColor=00ff7f)
+  *“Almost at the finish line! We got this!”*
+
+  <br />
+
+  <!-- Buttons Section -->
+  [![Assignments](https://img.shields.io/badge/📝%20ASSIGNMENTS-FF69B4?style=for-the-badge&logoColor=white)](./assignments.md)
+  [![Exams](https://img.shields.io/badge/🎯%20EXAMS-7CFC00?style=for-the-badge&logoColor=black)](./high_stakes.md)
+  [![Daily](https://img.shields.io/badge/☁️%20DAILY-87CEEB?style=for-the-badge&logoColor=white)](./life_logistics.md)
+  [![Study Vault](https://img.shields.io/badge/📚%20STUDY--VAULT-9370DB?style=for-the-badge&logoColor=white)](./study_vault.md)
+
 </div>
 
 ---
 
-### 🚀 **Quick Action Buttons**
-[![Assignments](https://img.shields.io/badge/-Assignments-pink?style=for-the-badge&logo=googlesheets&logoColor=white)](./assignments.md)
-[![IMPORTANT](https://img.shields.io/badge/-Exams-lightgreen?style=for-the-badge&logo=target&logoColor=white)](./exams.md)
-[![Basics](https://img.shields.io/badge/-Daily-lightblue?style=for-the-badge&logo=apple&logoColor=white)](./admin.md)
-[![Study vault](https://img.shields.io/badge/-Study--Vault-purple?style=for-the-badge&logo=bookstack&logoColor=white)](./study_vault.md)
+### 🎧 Study Soundtrack
+<div align="center">
+  <a href="[https://open.spotify.com/playlist/0G17Dn0Y2puoCmysdsR7Bh?si=4-vKl_ENTMO58aiynalZlA&pi=Xgd-wo7vSd-On&nd=1&dlsi=9f48d9a9daf34e27] />
+    <img src="https://img.shields.io/badge/Spotify-Listening%20To%3A%20Study%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <br />
+  <i>Click the badge above to open my study playlist.</i>
+</div>
 
 ---
+
+### ✅ Daily Health & Habits
+- [ ] **Steps:** 👣 8,000 steps a day 
+- [ ] **Hydration:** 💧 2L of water
+- [ ] **Focus:** 🧘‍♀️ 10 minute screen-break every hour
+
+---
+
+### 💡 Reminders
+> [!TIP]
+> **Daily Focus:** Don't forget to email the Math professor about the Chapter 3 reschedule! 📧
+
+> [!IMPORTANT]
+> **House Policy Paper:** 200 points. Keep chipping away at the draft. 🖋️
+
+> [!CAUTION]
+> **Office Task:** Collect stipend and paycheck before Friday at 4 PM. 💸
+
+---
+
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3RreXF6YmpxZ3RreXF6YmpxZ3RreXF6YmpxZ3RreXF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx66C3E7G8/giphy.gif" width="150px" />
+</div>
