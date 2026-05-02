@@ -18,7 +18,7 @@
   [![Assignments](https://img.shields.io/badge/📝%20ASSIGNMENTS-F690A6?style=for-the-badge&logoColor=white)](./assignments.md)
   [![Exams](https://img.shields.io/badge/🎯%20EXAMS-4c3228?style=for-the-badge&logoColor=black)](./exams.md)
   [![Daily](https://img.shields.io/badge/☁️%20DAILY-048c7f?style=for-the-badge&logoColor=white)](./admin.md)
-  [![Study Vault](https://img.shields.io/badge/📚%20STUDY--VAULT-FAE3E6?style=for-the-badge&logoColor=white)](./study_vault.md)
+  [![Study Vault](https://img.shields.io/badge/📚%20STUDY--VAULT-FAE3E6?style=for-the-badge&logoColor=white)](./studyvault.md)
 
 </div>
 
