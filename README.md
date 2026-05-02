@@ -9,7 +9,7 @@
 
   <!-- Progress Tracker -->
   ### ☕ **Current Semester Completion**
-  ![Progress Bar](https://geps.dev/progress/85?dangerColor=C7E9C0&warningColor=ff69b4&successColor=00ff7f)
+  ![Progress Bar](https://geps.dev/progress/75?dangerColor=486722&warningColor=ff69b4&successColor=E5F5E0)
   *“Almost at the finish line! We got this!”*
 
   <br />
